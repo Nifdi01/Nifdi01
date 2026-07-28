@@ -1,4 +1,3 @@
-# Hi, I'm Nifdi
 I build full-stack web applications and command-line tools to streamline workflows.
 
 ### What I Do
