@@ -11,9 +11,9 @@ I build full-stack web applications and command-line tools to streamline workflo
 ### Tech & Tools
 * **Languages:** Python, TypeScript, JavaScript, SQL, C++
 * **Backend & Data:** FastAPI, Celery, Redis, PyTorch, Pandas, Jupyter, Spring, Sklearn, Numpy
-* **Frontend & DevOps:** React, Vite, Tailwind CSS, Docker, GitHub Actions
+* **Frontend & DevOps:** React, Vite, Tailwind CSS
 * **Environment:** Linux, Neovim
-* **Cloud & Deployment:** AWS, GCP, Railway, on-premise 
+* **Cloud & Deployment:** Docker, GitHub Actions, AWS, GCP, Railway, on-premise 
 
 ### 📫 Connect With Me
 * **LinkedIn:** [nifdi-guliyev](https://www.linkedin.com/in/nifdi-guliyev/)
