@@ -9,10 +9,11 @@ I build full-stack web applications and command-line tools to streamline workflo
 * **[virus-classifier-app](https://github.com/Nifdi01/virus-classifier-app):** Full-stack web application for influenza type classification and nucleotide sequence analysis, featuring background task queues and CI/CD automation.
 
 ### Tech & Tools
-* **Languages:** Python, TypeScript, JavaScript, SQL, C++, Rust
+* **Languages:** Python, TypeScript, JavaScript, SQL, C++
 * **Backend & Data:** FastAPI, Celery, Redis, PyTorch, Pandas, Jupyter, Spring, Sklearn, Numpy
 * **Frontend & DevOps:** React, Vite, Tailwind CSS, Docker, GitHub Actions
 * **Environment:** Linux, Neovim
+* **Cloud & Deployment:** AWS, GCP, Railway, on-premise 
 
 ### 📫 Connect With Me
 * **LinkedIn:** [nifdi-guliyev](https://www.linkedin.com/in/nifdi-guliyev/)
