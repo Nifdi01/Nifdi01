@@ -7,8 +7,8 @@ I build full-stack web applications and command-line tools to streamline workflo
 
 ### Tech & Tools
 * **Languages:** Python, TypeScript, JavaScript, SQL, C++
-* **Backend & Data:** FastAPI, Celery, Redis, PyTorch, Pandas, Jupyter, Spring, Sklearn, Numpy
-* **Frontend & DevOps:** React, Vite, Tailwind CSS
+* **Backend & Data:** FastAPI, Django, Celery, Redis, PyTorch, Pandas, Jupyter, Spring, Sklearn, Numpy
+* **Frontend:** React, Vite, Tailwind CSS
 * **Environment:** Linux, Neovim
 * **Cloud & Deployment:** Docker, GitHub Actions, AWS, GCP, Railway, on-premise 
 
